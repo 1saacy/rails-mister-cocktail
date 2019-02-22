@@ -15,3 +15,5 @@ Ingredient.create(name: 'Tomato juice')
 Ingredient.create(name: 'ice')
 Ingredient.create(name: 'mint leaves')
 puts "Your ingredients are created!"
+
+
